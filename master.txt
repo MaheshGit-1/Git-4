@@ -1,2 +1,1 @@
-Initial message for master.txt
-message to master.txt on the private branch
+Initial content for master.txt
