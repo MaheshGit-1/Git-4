@@ -1,1 +1,1 @@
-message for public1.txt
+Content for public1.txt
