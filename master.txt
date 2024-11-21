@@ -1,6 +1,1 @@
 Master branch content
-Initial content for master.txt
-Changes made to master.txt on the private branch
-Changes made to master.txt on the private branch
-private branches content
-Private branches update
