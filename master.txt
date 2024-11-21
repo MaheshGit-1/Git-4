@@ -2,3 +2,4 @@ Initial content for master.txt
 Changes to master.txt on the private branch
 Changes to master.txt on the private branch
 private branch content
+Private branch update
